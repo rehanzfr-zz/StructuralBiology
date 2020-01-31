@@ -1,1 +1,1 @@
-![Fig1](./Slide1.png)
+![Fig1](Slide1.PNG)
