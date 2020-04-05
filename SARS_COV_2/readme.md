@@ -2,7 +2,7 @@ This readme is the complete resource of SARS-COV-2 at one place. The resource wi
 
 # Query by:
 
-1- **Mr. shaik mahammad nayeem**<br/> 
+1- **Dr. Shaik Mahammad Nayeem**<br/> 
 **Status**= Answered <br/> 
 **Refer to** heading of *Strucutres of SARS-Cov-2 proteins in the PDB*
 
