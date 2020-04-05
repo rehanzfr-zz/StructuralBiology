@@ -1,11 +1,5 @@
 This readme is the complete resource of SARS-COV-2 at one place. The resource will be updated when it will be required. Flag for date of update should be checked before accessing. 
 
-# Query by:
-
-1- **Dr. Shaik Mahammad Nayeem**<br/> 
-**Status**= Answered <br/> 
-**Refer to** heading of *Strucutres of SARS-Cov-2 proteins in the PDB*
-
 # Structures of SARS-Cov-2 proteins in PDB database
 
 [![Updates](https://img.shields.io/badge/Updated-05--04--2020-green.svg?style=flat)]()
